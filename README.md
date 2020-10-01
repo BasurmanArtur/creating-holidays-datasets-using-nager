@@ -5,7 +5,7 @@ In this project I used [Nager.Date API](https://date.nager.at/Api) to create dat
 ## Data
 
 
-The data was retrieved using GET requests to https://date.nager.at/Api/v2/PublicHolidays/{year}/{countrycode} and https://date.nager.at/Api/v2/LongWeekend/{year}/{countrycode} and then transformed into `csv` files:
+The data was retrieved using GET requests to `https://date.nager.at/Api/v2/PublicHolidays/{year}/{countrycode}` and `https://date.nager.at/Api/v2/LongWeekend/{year}/{countrycode}` and then transformed into `csv` files:
 * world_holidays_2019.csv
 * world_long_weekends_2019.csv
 
