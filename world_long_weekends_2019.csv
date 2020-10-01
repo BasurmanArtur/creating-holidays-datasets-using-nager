@@ -1,0 +1,718 @@
+start_date,end_date,weekend_length,need_bridge_day,country_code,country_name
+2018-12-29,2019-01-01,4,True,AD,Andorra
+2019-03-14,2019-03-17,4,True,AD,Andorra
+2018-12-29,2019-01-02,5,True,AL,Albania
+2019-03-14,2019-03-17,4,True,AL,Albania
+2019-03-22,2019-03-24,3,False,AL,Albania
+2019-04-27,2019-05-01,5,True,AL,Albania
+2019-11-28,2019-12-01,4,False,AL,Albania
+2018-12-29,2019-01-01,4,True,AR,Argentina
+2019-03-02,2019-03-05,4,False,AR,Argentina
+2019-03-30,2019-04-02,4,True,AR,Argentina
+2019-04-19,2019-04-21,3,False,AR,Argentina
+2019-06-15,2019-06-17,3,False,AR,Argentina
+2019-06-20,2019-06-23,4,True,AR,Argentina
+2019-07-06,2019-07-09,4,True,AR,Argentina
+2019-08-17,2019-08-19,3,False,AR,Argentina
+2019-10-12,2019-10-14,3,False,AR,Argentina
+2018-12-29,2019-01-01,4,True,AT,Austria
+2019-04-20,2019-04-22,3,False,AT,Austria
+2019-05-30,2019-06-02,4,True,AT,Austria
+2019-06-08,2019-06-10,3,False,AT,Austria
+2019-06-20,2019-06-23,4,True,AT,Austria
+2019-08-15,2019-08-18,4,True,AT,Austria
+2019-11-01,2019-11-03,3,False,AT,Austria
+2019-12-25,2019-12-29,5,True,AT,Austria
+2018-12-29,2019-01-01,4,True,AU,Australia
+2019-03-02,2019-03-04,3,False,AU,Australia
+2019-03-09,2019-03-11,3,False,AU,Australia
+2019-04-19,2019-04-22,4,False,AU,Australia
+2019-04-25,2019-04-28,4,True,AU,Australia
+2019-05-04,2019-05-06,3,False,AU,Australia
+2019-05-25,2019-05-27,3,False,AU,Australia
+2019-06-01,2019-06-03,3,False,AU,Australia
+2019-06-08,2019-06-10,3,False,AU,Australia
+2019-08-03,2019-08-05,3,False,AU,Australia
+2019-10-05,2019-10-07,3,False,AU,Australia
+2019-12-25,2019-12-29,5,True,AU,Australia
+2018-12-29,2019-01-01,4,True,AX,Åland Islands
+2019-04-19,2019-04-22,4,False,AX,Åland Islands
+2019-04-27,2019-05-01,5,True,AX,Åland Islands
+2019-05-30,2019-06-02,4,True,AX,Åland Islands
+2019-06-08,2019-06-10,3,False,AX,Åland Islands
+2019-06-21,2019-06-23,3,False,AX,Åland Islands
+2019-11-15,2019-11-17,3,False,AX,Åland Islands
+2019-12-06,2019-12-08,3,False,AX,Åland Islands
+2019-12-21,2019-12-29,9,True,AX,Åland Islands
+2018-12-29,2019-01-01,4,True,BB,Barbados
+2019-01-19,2019-01-21,3,False,BB,Barbados
+2019-04-19,2019-04-22,4,False,BB,Barbados
+2019-06-08,2019-06-10,3,False,BB,Barbados
+2019-08-01,2019-08-05,5,True,BB,Barbados
+2019-12-25,2019-12-29,5,True,BB,Barbados
+2018-12-29,2019-01-01,4,True,BE,Belgium
+2019-04-20,2019-04-22,3,False,BE,Belgium
+2019-05-30,2019-06-02,4,True,BE,Belgium
+2019-06-08,2019-06-10,3,False,BE,Belgium
+2019-08-15,2019-08-18,4,True,BE,Belgium
+2019-11-01,2019-11-03,3,False,BE,Belgium
+2019-11-09,2019-11-11,3,False,BE,Belgium
+2018-12-29,2019-01-01,4,True,BG,Bulgaria
+2019-04-26,2019-05-01,6,True,BG,Bulgaria
+2019-05-04,2019-05-06,3,False,BG,Bulgaria
+2019-05-24,2019-05-26,3,False,BG,Bulgaria
+2019-09-06,2019-09-08,3,False,BG,Bulgaria
+2019-11-01,2019-11-03,3,False,BG,Bulgaria
+2019-12-21,2019-12-29,9,True,BG,Bulgaria
+2018-12-29,2019-01-01,4,True,BJ,Benin
+2019-01-10,2019-01-13,4,True,BJ,Benin
+2019-04-20,2019-04-22,3,False,BJ,Benin
+2019-06-08,2019-06-10,3,False,BJ,Benin
+2019-08-01,2019-08-04,4,True,BJ,Benin
+2019-08-15,2019-08-18,4,True,BJ,Benin
+2019-11-01,2019-11-03,3,False,BJ,Benin
+2019-12-25,2019-12-29,5,True,BJ,Benin
+2018-12-29,2019-01-01,4,True,BO,Bolivia
+2019-03-02,2019-03-05,4,False,BO,Bolivia
+2019-04-19,2019-04-21,3,False,BO,Bolivia
+2019-06-20,2019-06-23,4,False,BO,Bolivia
+2019-08-02,2019-08-06,5,True,BO,Bolivia
+2018-12-29,2019-01-01,4,True,BR,Brazil
+2019-03-02,2019-03-05,4,True,BR,Brazil
+2019-04-19,2019-04-21,3,False,BR,Brazil
+2019-06-20,2019-06-23,4,True,BR,Brazil
+2019-11-15,2019-11-17,3,False,BR,Brazil
+2018-12-29,2019-01-01,4,True,BS,Bahamas
+2019-01-10,2019-01-13,4,True,BS,Bahamas
+2019-03-30,2019-04-01,3,False,BS,Bahamas
+2019-04-19,2019-04-22,4,False,BS,Bahamas
+2019-06-08,2019-06-10,3,False,BS,Bahamas
+2019-08-03,2019-08-05,3,False,BS,Bahamas
+2019-12-25,2019-12-29,5,True,BS,Bahamas
+2018-12-29,2019-01-01,4,True,BW,Botswana
+2019-04-19,2019-04-22,4,False,BW,Botswana
+2019-05-30,2019-06-02,4,True,BW,Botswana
+2019-06-29,2019-07-01,3,False,BW,Botswana
+2019-07-13,2019-07-15,3,False,BW,Botswana
+2019-09-28,2019-10-01,4,False,BW,Botswana
+2019-12-25,2019-12-29,5,True,BW,Botswana
+2018-12-29,2019-01-01,4,True,BY,Belarus
+2019-01-05,2019-01-07,3,False,BY,Belarus
+2019-03-08,2019-03-10,3,False,BY,Belarus
+2019-05-04,2019-05-09,6,True,BY,Belarus
+2019-05-07,2019-05-12,6,True,BY,Belarus
+2019-11-07,2019-11-10,4,True,BY,Belarus
+2018-12-29,2019-01-01,4,True,BZ,Belize
+2019-04-19,2019-04-22,4,False,BZ,Belize
+2019-05-24,2019-05-26,3,False,BZ,Belize
+2019-09-07,2019-09-10,4,True,BZ,Belize
+2019-09-21,2019-09-23,3,False,BZ,Belize
+2019-11-16,2019-11-19,4,True,BZ,Belize
+2019-12-25,2019-12-29,5,True,BZ,Belize
+2018-12-29,2019-01-01,4,True,CA,Canada
+2019-02-09,2019-02-11,3,False,CA,Canada
+2019-02-16,2019-02-18,3,False,CA,Canada
+2019-04-19,2019-04-23,5,False,CA,Canada
+2019-05-18,2019-05-20,3,False,CA,Canada
+2019-06-21,2019-06-24,4,False,CA,Canada
+2019-06-29,2019-07-01,3,False,CA,Canada
+2019-07-12,2019-07-14,3,False,CA,Canada
+2019-08-03,2019-08-05,3,False,CA,Canada
+2019-08-17,2019-08-19,3,False,CA,Canada
+2019-08-31,2019-09-02,3,False,CA,Canada
+2019-10-12,2019-10-14,3,False,CA,Canada
+2019-11-09,2019-11-11,3,False,CA,Canada
+2019-12-25,2019-12-29,5,True,CA,Canada
+2018-12-29,2019-01-02,5,True,CH,Switzerland
+2019-03-16,2019-03-19,4,True,CH,Switzerland
+2019-04-19,2019-04-22,4,False,CH,Switzerland
+2019-05-30,2019-06-02,4,True,CH,Switzerland
+2019-06-08,2019-06-10,3,False,CH,Switzerland
+2019-06-20,2019-06-23,4,True,CH,Switzerland
+2019-08-01,2019-08-04,4,True,CH,Switzerland
+2019-08-15,2019-08-18,4,True,CH,Switzerland
+2019-09-05,2019-09-08,4,True,CH,Switzerland
+2019-09-14,2019-09-16,3,False,CH,Switzerland
+2019-11-01,2019-11-03,3,False,CH,Switzerland
+2019-12-25,2019-12-29,5,True,CH,Switzerland
+2018-12-29,2019-01-01,4,True,CL,Chile
+2019-04-19,2019-04-21,3,False,CL,Chile
+2019-05-18,2019-05-21,4,True,CL,Chile
+2019-06-07,2019-06-09,3,False,CL,Chile
+2019-07-13,2019-07-16,4,True,CL,Chile
+2019-08-15,2019-08-18,4,True,CL,Chile
+2019-09-18,2019-09-22,5,False,CL,Chile
+2019-11-01,2019-11-03,3,False,CL,Chile
+2019-11-16,2019-11-19,4,True,CL,Chile
+2018-12-29,2019-01-01,4,True,CN,China
+2019-02-02,2019-02-05,4,True,CN,China
+2019-04-05,2019-04-07,3,False,CN,China
+2019-06-07,2019-06-09,3,False,CN,China
+2019-09-13,2019-09-15,3,False,CN,China
+2019-09-28,2019-10-01,4,True,CN,China
+2018-12-29,2019-01-01,4,True,CO,Colombia
+2019-03-02,2019-03-05,4,False,CO,Colombia
+2019-03-16,2019-03-19,4,True,CO,Colombia
+2019-04-18,2019-04-21,4,False,CO,Colombia
+2019-05-30,2019-06-02,4,True,CO,Colombia
+2019-06-20,2019-06-23,4,True,CO,Colombia
+2019-06-28,2019-06-30,3,False,CO,Colombia
+2019-08-15,2019-08-18,4,True,CO,Colombia
+2019-11-01,2019-11-03,3,False,CO,Colombia
+2019-11-09,2019-11-11,3,False,CO,Colombia
+2018-12-29,2019-01-01,4,True,CR,Costa Rica
+2019-04-11,2019-04-14,4,True,CR,Costa Rica
+2019-04-18,2019-04-21,4,False,CR,Costa Rica
+2019-07-25,2019-07-28,4,True,CR,Costa Rica
+2019-08-02,2019-08-04,3,False,CR,Costa Rica
+2019-08-15,2019-08-18,4,True,CR,Costa Rica
+2018-12-29,2019-01-02,5,True,CU,Cuba
+2019-04-19,2019-04-21,3,False,CU,Cuba
+2019-07-25,2019-07-28,4,False,CU,Cuba
+2019-10-10,2019-10-13,4,True,CU,Cuba
+2018-12-29,2019-01-01,4,True,CY,Cyprus
+2019-03-09,2019-03-11,3,False,CY,Cyprus
+2019-03-23,2019-03-25,3,False,CY,Cyprus
+2019-03-30,2019-04-01,3,False,CY,Cyprus
+2019-04-26,2019-05-01,6,False,CY,Cyprus
+2019-08-15,2019-08-18,4,True,CY,Cyprus
+2019-09-28,2019-10-01,4,True,CY,Cyprus
+2019-10-26,2019-10-28,3,False,CY,Cyprus
+2019-12-21,2019-12-29,9,True,CY,Cyprus
+2018-12-29,2019-01-01,4,True,CZ,Czechia
+2019-04-19,2019-04-22,4,False,CZ,Czechia
+2019-07-05,2019-07-07,3,False,CZ,Czechia
+2019-10-26,2019-10-28,3,False,CZ,Czechia
+2019-12-21,2019-12-29,9,True,CZ,Czechia
+2018-12-29,2019-01-01,4,True,DE,Germany
+2019-03-08,2019-03-10,3,False,DE,Germany
+2019-04-19,2019-04-22,4,False,DE,Germany
+2019-05-30,2019-06-02,4,True,DE,Germany
+2019-06-08,2019-06-10,3,False,DE,Germany
+2019-06-20,2019-06-23,4,True,DE,Germany
+2019-08-15,2019-08-18,4,True,DE,Germany
+2019-09-20,2019-09-22,3,False,DE,Germany
+2019-10-03,2019-10-06,4,True,DE,Germany
+2019-10-31,2019-11-03,4,False,DE,Germany
+2019-12-25,2019-12-29,5,True,DE,Germany
+2018-12-29,2019-01-01,4,True,DK,Denmark
+2019-04-18,2019-04-22,5,False,DK,Denmark
+2019-05-17,2019-05-19,3,False,DK,Denmark
+2019-05-30,2019-06-02,4,False,DK,Denmark
+2019-06-08,2019-06-10,3,False,DK,Denmark
+2019-12-21,2019-12-29,9,True,DK,Denmark
+2019-12-28,2019-12-31,4,True,DK,Denmark
+2018-12-29,2019-01-01,4,True,DO,Dominican Republic
+2019-01-19,2019-01-21,3,False,DO,Dominican Republic
+2019-04-19,2019-04-21,3,False,DO,Dominican Republic
+2019-05-25,2019-05-28,4,True,DO,Dominican Republic
+2019-06-20,2019-06-23,4,True,DO,Dominican Republic
+2019-08-16,2019-08-18,3,False,DO,Dominican Republic
+2019-09-21,2019-09-24,4,True,DO,Dominican Republic
+2018-12-29,2019-01-01,4,True,EC,Ecuador
+2019-03-02,2019-03-05,4,False,EC,Ecuador
+2019-04-19,2019-04-21,3,False,EC,Ecuador
+2019-05-24,2019-05-26,3,False,EC,Ecuador
+2018-12-29,2019-01-01,4,True,EE,Estonia
+2019-04-19,2019-04-21,3,False,EE,Estonia
+2019-06-22,2019-06-24,3,False,EE,Estonia
+2019-08-17,2019-08-20,4,True,EE,Estonia
+2019-12-21,2019-12-29,9,True,EE,Estonia
+2019-01-04,2019-01-07,4,True,EG,Egypt
+2019-04-25,2019-04-27,3,False,EG,Egypt
+2019-05-01,2019-05-04,4,True,EG,Egypt
+2019-10-04,2019-10-06,3,False,EG,Egypt
+2018-12-29,2019-01-01,4,True,ES,Spain
+2019-02-28,2019-03-03,4,False,ES,Spain
+2019-03-16,2019-03-19,4,True,ES,Spain
+2019-04-19,2019-04-23,5,False,ES,Spain
+2019-05-01,2019-05-05,5,True,ES,Spain
+2019-05-17,2019-05-19,3,False,ES,Spain
+2019-05-30,2019-06-02,4,False,ES,Spain
+2019-06-22,2019-06-24,3,False,ES,Spain
+2019-07-25,2019-07-28,4,True,ES,Spain
+2019-08-15,2019-08-18,4,True,ES,Spain
+2019-08-31,2019-09-02,3,False,ES,Spain
+2019-10-25,2019-10-27,3,False,ES,Spain
+2019-11-01,2019-11-03,3,False,ES,Spain
+2019-12-06,2019-12-08,3,False,ES,Spain
+2019-12-25,2019-12-29,5,True,ES,Spain
+2018-12-29,2019-01-01,4,True,FI,Finland
+2019-04-19,2019-04-22,4,False,FI,Finland
+2019-05-30,2019-06-02,4,True,FI,Finland
+2019-06-21,2019-06-23,3,False,FI,Finland
+2019-12-06,2019-12-08,3,False,FI,Finland
+2019-12-21,2019-12-29,9,True,FI,Finland
+2018-12-29,2019-01-01,4,True,FO,Faroe Islands
+2019-04-18,2019-04-22,5,False,FO,Faroe Islands
+2019-04-25,2019-04-28,4,True,FO,Faroe Islands
+2019-05-17,2019-05-19,3,False,FO,Faroe Islands
+2019-05-30,2019-06-02,4,True,FO,Faroe Islands
+2019-06-08,2019-06-10,3,False,FO,Faroe Islands
+2019-07-27,2019-07-29,3,False,FO,Faroe Islands
+2019-12-21,2019-12-29,9,True,FO,Faroe Islands
+2019-12-28,2019-12-31,4,True,FO,Faroe Islands
+2018-12-29,2019-01-01,4,True,FR,France
+2019-04-19,2019-04-22,4,False,FR,France
+2019-05-25,2019-05-27,3,False,FR,France
+2019-05-30,2019-06-02,4,True,FR,France
+2019-06-08,2019-06-10,3,False,FR,France
+2019-08-15,2019-08-18,4,True,FR,France
+2019-11-01,2019-11-03,3,False,FR,France
+2019-11-09,2019-11-11,3,False,FR,France
+2019-12-25,2019-12-29,5,True,FR,France
+2018-12-29,2019-01-01,4,True,GA,Gabon
+2019-03-09,2019-03-12,4,True,GA,Gabon
+2019-04-20,2019-04-22,3,False,GA,Gabon
+2019-05-04,2019-05-06,3,False,GA,Gabon
+2019-06-08,2019-06-10,3,False,GA,Gabon
+2019-08-15,2019-08-18,4,True,GA,Gabon
+2019-11-01,2019-11-03,3,False,GA,Gabon
+2018-12-29,2019-01-02,5,True,GB,United Kingdom
+2019-04-19,2019-04-22,4,False,GB,United Kingdom
+2019-05-04,2019-05-06,3,False,GB,United Kingdom
+2019-05-25,2019-05-27,3,False,GB,United Kingdom
+2019-07-12,2019-07-14,3,False,GB,United Kingdom
+2019-08-03,2019-08-05,3,False,GB,United Kingdom
+2019-08-24,2019-08-26,3,False,GB,United Kingdom
+2019-12-25,2019-12-29,5,True,GB,United Kingdom
+2018-12-29,2019-01-01,4,True,GD,Grenada
+2019-02-07,2019-02-10,4,True,GD,Grenada
+2019-04-19,2019-04-22,4,False,GD,Grenada
+2019-06-08,2019-06-10,3,False,GD,Grenada
+2019-06-20,2019-06-23,4,True,GD,Grenada
+2019-08-03,2019-08-05,3,False,GD,Grenada
+2019-10-25,2019-10-27,3,False,GD,Grenada
+2019-12-25,2019-12-29,5,True,GD,Grenada
+2018-12-29,2019-01-01,4,True,GL,Greenland
+2019-04-18,2019-04-22,5,False,GL,Greenland
+2019-05-17,2019-05-19,3,False,GL,Greenland
+2019-05-30,2019-06-02,4,True,GL,Greenland
+2019-06-08,2019-06-10,3,False,GL,Greenland
+2019-06-21,2019-06-23,3,False,GL,Greenland
+2019-12-21,2019-12-29,9,True,GL,Greenland
+2019-12-28,2019-12-31,4,True,GL,Greenland
+2018-12-29,2019-01-01,4,True,GM,Gambia
+2019-02-16,2019-02-18,3,False,GM,Gambia
+2019-04-19,2019-04-22,4,False,GM,Gambia
+2019-07-20,2019-07-22,3,False,GM,Gambia
+2019-08-15,2019-08-18,4,True,GM,Gambia
+2018-12-29,2019-01-01,4,True,GR,Greece
+2019-03-09,2019-03-11,3,False,GR,Greece
+2019-03-23,2019-03-25,3,False,GR,Greece
+2019-04-26,2019-05-01,6,True,GR,Greece
+2019-06-15,2019-06-17,3,False,GR,Greece
+2019-08-15,2019-08-18,4,True,GR,Greece
+2019-10-26,2019-10-28,3,False,GR,Greece
+2019-12-25,2019-12-29,5,True,GR,Greece
+2018-12-29,2019-01-01,4,True,GT,Guatemala
+2019-04-18,2019-04-21,4,False,GT,Guatemala
+2019-11-01,2019-11-03,3,False,GT,Guatemala
+2019-12-21,2019-12-25,5,True,GT,Guatemala
+2019-12-28,2019-12-31,4,True,GT,Guatemala
+2018-12-29,2019-01-01,4,True,GY,Guyana
+2019-04-19,2019-04-22,4,False,GY,Guyana
+2019-06-29,2019-07-01,3,False,GY,Guyana
+2019-08-01,2019-08-04,4,True,GY,Guyana
+2019-12-25,2019-12-29,5,True,GY,Guyana
+2018-12-29,2019-01-01,4,True,HN,Honduras
+2019-04-18,2019-04-21,4,False,HN,Honduras
+2019-10-03,2019-10-06,4,True,HN,Honduras
+2019-10-19,2019-10-21,3,False,HN,Honduras
+2018-12-29,2019-01-01,4,True,HR,Croatia
+2019-04-20,2019-04-22,3,False,HR,Croatia
+2019-06-20,2019-06-23,4,True,HR,Croatia
+2019-06-20,2019-06-25,6,True,HR,Croatia
+2019-08-03,2019-08-05,3,False,HR,Croatia
+2019-08-15,2019-08-18,4,True,HR,Croatia
+2019-10-05,2019-10-08,4,True,HR,Croatia
+2019-11-01,2019-11-03,3,False,HR,Croatia
+2019-12-25,2019-12-29,5,True,HR,Croatia
+2018-12-29,2019-01-02,5,True,HT,Haiti
+2019-03-02,2019-03-06,5,False,HT,Haiti
+2019-04-18,2019-04-21,4,False,HT,Haiti
+2019-05-30,2019-06-02,4,True,HT,Haiti
+2019-06-20,2019-06-23,4,True,HT,Haiti
+2019-08-15,2019-08-18,4,True,HT,Haiti
+2019-10-17,2019-10-20,4,True,HT,Haiti
+2019-11-01,2019-11-03,3,False,HT,Haiti
+2019-11-16,2019-11-18,3,False,HT,Haiti
+2019-12-05,2019-12-08,4,True,HT,Haiti
+2018-12-29,2019-01-01,4,True,HU,Hungary
+2019-03-15,2019-03-17,3,False,HU,Hungary
+2019-04-19,2019-04-22,4,False,HU,Hungary
+2019-06-08,2019-06-10,3,False,HU,Hungary
+2019-08-17,2019-08-20,4,True,HU,Hungary
+2019-11-01,2019-11-03,3,False,HU,Hungary
+2019-12-25,2019-12-29,5,True,HU,Hungary
+2018-12-29,2019-01-01,4,True,ID,Indonesia
+2019-04-19,2019-04-21,3,False,ID,Indonesia
+2019-05-31,2019-06-02,3,False,ID,Indonesia
+2018-12-29,2019-01-01,4,True,IE,Ireland
+2019-04-19,2019-04-22,4,False,IE,Ireland
+2019-05-04,2019-05-06,3,False,IE,Ireland
+2019-06-01,2019-06-03,3,False,IE,Ireland
+2019-08-03,2019-08-05,3,False,IE,Ireland
+2019-10-26,2019-10-28,3,False,IE,Ireland
+2019-12-25,2019-12-29,5,True,IE,Ireland
+2018-12-29,2019-01-01,4,True,IM,Isle of Man
+2019-04-19,2019-04-22,4,False,IM,Isle of Man
+2019-05-04,2019-05-06,3,False,IM,Isle of Man
+2019-05-25,2019-05-27,3,False,IM,Isle of Man
+2019-06-14,2019-06-16,3,False,IM,Isle of Man
+2019-07-05,2019-07-07,3,False,IM,Isle of Man
+2019-08-24,2019-08-26,3,False,IM,Isle of Man
+2019-12-25,2019-12-29,5,True,IM,Isle of Man
+2018-12-29,2019-01-01,4,True,IS,Iceland
+2019-04-18,2019-04-22,5,False,IS,Iceland
+2019-04-25,2019-04-28,4,True,IS,Iceland
+2019-05-30,2019-06-02,4,True,IS,Iceland
+2019-06-08,2019-06-10,3,False,IS,Iceland
+2019-06-15,2019-06-17,3,False,IS,Iceland
+2019-08-03,2019-08-05,3,False,IS,Iceland
+2019-12-21,2019-12-29,9,True,IS,Iceland
+2019-12-28,2019-12-31,4,True,IS,Iceland
+2018-12-29,2019-01-01,4,True,IT,Italy
+2019-04-20,2019-04-22,3,False,IT,Italy
+2019-04-25,2019-04-28,4,True,IT,Italy
+2019-08-15,2019-08-18,4,True,IT,Italy
+2019-11-01,2019-11-03,3,False,IT,Italy
+2019-12-25,2019-12-29,5,True,IT,Italy
+2018-12-29,2019-01-01,4,True,JE,Jersey
+2019-04-19,2019-04-22,4,False,JE,Jersey
+2019-05-04,2019-05-06,3,False,JE,Jersey
+2019-05-09,2019-05-12,4,True,JE,Jersey
+2019-05-25,2019-05-27,3,False,JE,Jersey
+2019-08-24,2019-08-26,3,False,JE,Jersey
+2019-12-25,2019-12-29,5,True,JE,Jersey
+2018-12-29,2019-01-01,4,True,JM,Jamaica
+2019-04-19,2019-04-22,4,False,JM,Jamaica
+2019-05-23,2019-05-26,4,True,JM,Jamaica
+2019-08-01,2019-08-04,4,True,JM,Jamaica
+2019-08-03,2019-08-06,4,True,JM,Jamaica
+2019-12-25,2019-12-29,5,True,JM,Jamaica
+2018-12-29,2019-01-01,4,True,JP,Japan
+2019-01-12,2019-01-14,3,False,JP,Japan
+2019-02-09,2019-02-11,3,False,JP,Japan
+2019-04-27,2019-04-29,3,False,JP,Japan
+2019-05-03,2019-05-06,4,False,JP,Japan
+2019-07-13,2019-07-15,3,False,JP,Japan
+2019-08-10,2019-08-12,3,False,JP,Japan
+2019-09-14,2019-09-16,3,False,JP,Japan
+2019-10-12,2019-10-14,3,False,JP,Japan
+2019-11-02,2019-11-04,3,False,JP,Japan
+2019-12-21,2019-12-23,3,False,JP,Japan
+2018-12-29,2019-01-02,5,True,LI,Liechtenstein
+2019-03-16,2019-03-19,4,True,LI,Liechtenstein
+2019-04-19,2019-04-22,4,False,LI,Liechtenstein
+2019-06-08,2019-06-10,3,False,LI,Liechtenstein
+2019-06-20,2019-06-23,4,True,LI,Liechtenstein
+2019-08-15,2019-08-18,4,True,LI,Liechtenstein
+2019-11-01,2019-11-03,3,False,LI,Liechtenstein
+2019-12-21,2019-12-29,9,True,LI,Liechtenstein
+2019-12-28,2019-12-31,4,True,LI,Liechtenstein
+2018-12-29,2019-01-01,4,True,LS,Lesotho
+2019-03-09,2019-03-11,3,False,LS,Lesotho
+2019-04-19,2019-04-22,4,False,LS,Lesotho
+2019-05-09,2019-05-12,4,True,LS,Lesotho
+2019-10-04,2019-10-06,3,False,LS,Lesotho
+2019-12-25,2019-12-29,5,True,LS,Lesotho
+2018-12-29,2019-01-01,4,True,LT,Lithuania
+2019-03-09,2019-03-11,3,False,LT,Lithuania
+2019-04-20,2019-04-22,3,False,LT,Lithuania
+2019-06-22,2019-06-24,3,False,LT,Lithuania
+2019-08-15,2019-08-18,4,True,LT,Lithuania
+2019-11-01,2019-11-03,3,False,LT,Lithuania
+2019-12-21,2019-12-29,9,True,LT,Lithuania
+2018-12-29,2019-01-01,4,True,LU,Luxembourg
+2019-04-19,2019-04-22,4,False,LU,Luxembourg
+2019-05-09,2019-05-12,4,True,LU,Luxembourg
+2019-05-30,2019-06-02,4,True,LU,Luxembourg
+2019-06-08,2019-06-10,3,False,LU,Luxembourg
+2019-08-15,2019-08-18,4,True,LU,Luxembourg
+2019-11-01,2019-11-03,3,False,LU,Luxembourg
+2019-12-25,2019-12-29,5,True,LU,Luxembourg
+2018-12-29,2019-01-01,4,True,LV,Latvia
+2019-04-19,2019-04-22,4,False,LV,Latvia
+2019-06-22,2019-06-24,3,False,LV,Latvia
+2019-11-16,2019-11-18,3,False,LV,Latvia
+2019-12-21,2019-12-29,9,True,LV,Latvia
+2019-12-28,2019-12-31,4,True,LV,Latvia
+2018-12-29,2019-01-01,4,True,MA,Morocco
+2019-01-11,2019-01-13,3,False,MA,Morocco
+2019-07-27,2019-07-30,4,True,MA,Morocco
+2019-08-17,2019-08-21,5,True,MA,Morocco
+2019-11-16,2019-11-18,3,False,MA,Morocco
+2018-12-29,2019-01-01,4,True,MC,Monaco
+2019-04-20,2019-04-22,3,False,MC,Monaco
+2019-05-31,2019-06-02,3,False,MC,Monaco
+2019-06-08,2019-06-10,3,False,MC,Monaco
+2019-06-20,2019-06-23,4,True,MC,Monaco
+2019-08-15,2019-08-18,4,True,MC,Monaco
+2019-11-01,2019-11-03,3,False,MC,Monaco
+2019-11-16,2019-11-19,4,True,MC,Monaco
+2018-12-29,2019-01-01,4,True,MD,Moldova
+2019-01-05,2019-01-08,4,False,MD,Moldova
+2019-03-08,2019-03-10,3,False,MD,Moldova
+2019-05-09,2019-05-12,4,True,MD,Moldova
+2019-08-24,2019-08-27,4,False,MD,Moldova
+2019-08-31,2019-09-03,4,True,MD,Moldova
+2019-10-12,2019-10-14,3,False,MD,Moldova
+2019-11-21,2019-11-24,4,True,MD,Moldova
+2018-12-29,2019-01-01,4,True,MG,Madagascar
+2019-03-29,2019-03-31,3,False,MG,Madagascar
+2019-04-20,2019-04-22,3,False,MG,Madagascar
+2019-05-30,2019-06-02,4,True,MG,Madagascar
+2019-06-08,2019-06-10,3,False,MG,Madagascar
+2019-08-15,2019-08-18,4,True,MG,Madagascar
+2019-11-01,2019-11-03,3,False,MG,Madagascar
+2018-12-29,2019-01-01,4,True,MK,North Macedonia
+2019-01-05,2019-01-07,3,False,MK,North Macedonia
+2019-04-26,2019-05-01,6,True,MK,North Macedonia
+2019-05-24,2019-05-26,3,False,MK,North Macedonia
+2019-08-02,2019-08-04,3,False,MK,North Macedonia
+2019-10-11,2019-10-13,3,False,MK,North Macedonia
+2018-12-29,2019-01-01,4,True,MN,Mongolia
+2019-03-08,2019-03-10,3,False,MN,Mongolia
+2019-07-11,2019-07-15,5,False,MN,Mongolia
+2019-11-23,2019-11-26,4,True,MN,Mongolia
+2018-12-29,2019-01-01,4,True,MT,Malta
+2019-03-16,2019-03-19,4,True,MT,Malta
+2019-04-19,2019-04-21,3,False,MT,Malta
+2019-06-07,2019-06-09,3,False,MT,Malta
+2019-08-15,2019-08-18,4,True,MT,Malta
+2019-12-13,2019-12-15,3,False,MT,Malta
+2018-12-30,2019-01-01,3,True,MX,Mexico
+2019-02-03,2019-02-04,2,False,MX,Mexico
+2019-03-17,2019-03-18,2,False,MX,Mexico
+2019-09-15,2019-09-16,2,False,MX,Mexico
+2019-11-17,2019-11-18,2,False,MX,Mexico
+2018-12-29,2019-01-01,4,True,MZ,Mozambique
+2019-06-22,2019-06-25,4,True,MZ,Mozambique
+2019-10-04,2019-10-06,3,False,MZ,Mozambique
+2018-12-29,2019-01-01,4,True,NA,Namibia
+2019-03-21,2019-03-24,4,True,NA,Namibia
+2019-04-19,2019-04-22,4,False,NA,Namibia
+2019-05-30,2019-06-02,4,True,NA,Namibia
+2019-08-24,2019-08-26,3,False,NA,Namibia
+2019-12-07,2019-12-10,4,True,NA,Namibia
+2019-12-25,2019-12-29,5,True,NA,Namibia
+2018-12-29,2019-01-01,4,True,NE,Niger
+2019-04-20,2019-04-24,5,True,NE,Niger
+2018-12-29,2019-01-01,4,True,NI,Nicaragua
+2019-02-01,2019-02-03,3,False,NI,Nicaragua
+2019-04-04,2019-04-07,4,True,NI,Nicaragua
+2019-05-25,2019-05-27,3,False,NI,Nicaragua
+2019-07-19,2019-07-21,3,False,NI,Nicaragua
+2019-12-28,2019-12-31,4,True,NI,Nicaragua
+2018-12-29,2019-01-01,4,True,NL,Netherlands
+2019-04-19,2019-04-22,4,False,NL,Netherlands
+2019-05-30,2019-06-02,4,True,NL,Netherlands
+2019-06-08,2019-06-10,3,False,NL,Netherlands
+2019-12-25,2019-12-29,5,True,NL,Netherlands
+2018-12-29,2019-01-01,4,True,NO,Norway
+2019-04-18,2019-04-22,5,False,NO,Norway
+2019-05-17,2019-05-19,3,False,NO,Norway
+2019-05-30,2019-06-02,4,True,NO,Norway
+2019-06-08,2019-06-10,3,False,NO,Norway
+2019-12-25,2019-12-29,5,True,NO,Norway
+2018-12-29,2019-01-02,5,True,NZ,New Zealand
+2019-04-19,2019-04-22,4,False,NZ,New Zealand
+2019-04-25,2019-04-28,4,True,NZ,New Zealand
+2019-06-01,2019-06-03,3,False,NZ,New Zealand
+2019-10-26,2019-10-28,3,False,NZ,New Zealand
+2019-12-25,2019-12-29,5,True,NZ,New Zealand
+2018-12-29,2019-01-01,4,True,PA,Panama
+2019-03-02,2019-03-05,4,False,PA,Panama
+2019-04-19,2019-04-21,3,False,PA,Panama
+2019-11-02,2019-11-05,4,False,PA,Panama
+2019-11-28,2019-12-01,4,True,PA,Panama
+2018-12-29,2019-01-01,4,True,PE,Peru
+2019-04-18,2019-04-21,4,False,PE,Peru
+2019-07-27,2019-07-29,3,False,PE,Peru
+2019-08-30,2019-09-01,3,False,PE,Peru
+2019-10-05,2019-10-08,4,True,PE,Peru
+2019-11-01,2019-11-03,3,False,PE,Peru
+2018-12-29,2019-01-01,4,True,PL,Poland
+2019-04-20,2019-04-22,3,False,PL,Poland
+2019-05-01,2019-05-05,5,True,PL,Poland
+2019-06-20,2019-06-23,4,True,PL,Poland
+2019-08-15,2019-08-18,4,True,PL,Poland
+2019-11-01,2019-11-03,3,False,PL,Poland
+2019-11-09,2019-11-11,3,False,PL,Poland
+2019-12-25,2019-12-29,5,True,PL,Poland
+2018-12-29,2019-01-01,4,True,PR,Puerto Rico
+2019-01-12,2019-01-14,3,False,PR,Puerto Rico
+2019-01-19,2019-01-21,3,False,PR,Puerto Rico
+2019-02-16,2019-02-18,3,False,PR,Puerto Rico
+2019-03-22,2019-03-24,3,False,PR,Puerto Rico
+2019-04-13,2019-04-15,3,False,PR,Puerto Rico
+2019-04-19,2019-04-21,3,False,PR,Puerto Rico
+2019-05-25,2019-05-27,3,False,PR,Puerto Rico
+2019-07-04,2019-07-07,4,True,PR,Puerto Rico
+2019-07-13,2019-07-15,3,False,PR,Puerto Rico
+2019-07-25,2019-07-28,4,True,PR,Puerto Rico
+2019-08-31,2019-09-02,3,False,PR,Puerto Rico
+2019-10-12,2019-10-14,3,False,PR,Puerto Rico
+2019-11-09,2019-11-11,3,False,PR,Puerto Rico
+2019-11-16,2019-11-19,4,True,PR,Puerto Rico
+2019-11-28,2019-12-01,4,True,PR,Puerto Rico
+2019-12-21,2019-12-25,5,True,PR,Puerto Rico
+2018-12-29,2019-01-01,4,True,PT,Portugal
+2019-03-02,2019-03-05,4,True,PT,Portugal
+2019-04-19,2019-04-21,3,False,PT,Portugal
+2019-04-25,2019-04-28,4,True,PT,Portugal
+2019-06-08,2019-06-10,3,False,PT,Portugal
+2019-06-20,2019-06-23,4,True,PT,Portugal
+2019-06-29,2019-07-01,3,False,PT,Portugal
+2019-08-15,2019-08-18,4,True,PT,Portugal
+2019-11-01,2019-11-03,3,False,PT,Portugal
+2019-12-25,2019-12-29,5,True,PT,Portugal
+2018-12-29,2019-01-01,4,True,PY,Paraguay
+2019-03-01,2019-03-03,3,False,PY,Paraguay
+2019-04-18,2019-04-21,4,False,PY,Paraguay
+2019-05-11,2019-05-15,5,True,PY,Paraguay
+2019-08-15,2019-08-18,4,True,PY,Paraguay
+2018-12-29,2019-01-02,5,True,RO,Romania
+2019-01-24,2019-01-27,4,True,RO,Romania
+2019-04-26,2019-05-01,6,True,RO,Romania
+2019-06-15,2019-06-17,3,False,RO,Romania
+2019-08-15,2019-08-18,4,True,RO,Romania
+2019-12-25,2019-12-29,5,True,RO,Romania
+2018-12-29,2019-01-02,5,True,RS,Serbia
+2019-01-05,2019-01-07,3,False,RS,Serbia
+2019-02-15,2019-02-17,3,False,RS,Serbia
+2019-04-26,2019-05-02,7,True,RS,Serbia
+2019-04-26,2019-05-05,10,True,RS,Serbia
+2019-11-09,2019-11-11,3,False,RS,Serbia
+2018-12-29,2019-01-07,10,True,RU,Russia
+2019-03-08,2019-03-10,3,False,RU,Russia
+2019-05-09,2019-05-12,4,True,RU,Russia
+2019-11-02,2019-11-04,3,False,RU,Russia
+2018-12-29,2019-01-01,4,True,SE,Sweden
+2019-04-19,2019-04-22,4,False,SE,Sweden
+2019-05-30,2019-06-02,4,True,SE,Sweden
+2019-06-06,2019-06-09,4,True,SE,Sweden
+2019-06-21,2019-06-23,3,False,SE,Sweden
+2019-12-21,2019-12-29,9,True,SE,Sweden
+2019-12-28,2019-12-31,4,True,SE,Sweden
+2018-12-29,2019-01-02,5,True,SI,Slovenia
+2019-02-08,2019-02-10,3,False,SI,Slovenia
+2019-04-20,2019-04-22,3,False,SI,Slovenia
+2019-05-01,2019-05-05,5,True,SI,Slovenia
+2019-06-22,2019-06-25,4,True,SI,Slovenia
+2019-08-15,2019-08-18,4,True,SI,Slovenia
+2019-10-31,2019-11-03,4,False,SI,Slovenia
+2019-12-25,2019-12-29,5,True,SI,Slovenia
+2018-12-29,2019-01-01,4,True,SJ,Svalbard and Jan Mayen
+2019-04-18,2019-04-22,5,False,SJ,Svalbard and Jan Mayen
+2019-05-17,2019-05-19,3,False,SJ,Svalbard and Jan Mayen
+2019-05-30,2019-06-02,4,True,SJ,Svalbard and Jan Mayen
+2019-06-08,2019-06-10,3,False,SJ,Svalbard and Jan Mayen
+2019-12-25,2019-12-29,5,True,SJ,Svalbard and Jan Mayen
+2018-12-29,2019-01-01,4,True,SK,Slovakia
+2019-04-19,2019-04-22,4,False,SK,Slovakia
+2019-07-05,2019-07-07,3,False,SK,Slovakia
+2019-08-29,2019-09-01,4,True,SK,Slovakia
+2019-11-01,2019-11-03,3,False,SK,Slovakia
+2019-12-21,2019-12-29,9,True,SK,Slovakia
+2018-12-29,2019-01-01,4,True,SM,San Marino
+2019-02-02,2019-02-05,4,True,SM,San Marino
+2019-03-23,2019-03-25,3,False,SM,San Marino
+2019-04-20,2019-04-22,3,False,SM,San Marino
+2019-06-20,2019-06-23,4,True,SM,San Marino
+2019-08-15,2019-08-18,4,True,SM,San Marino
+2019-08-31,2019-09-03,4,True,SM,San Marino
+2019-11-01,2019-11-03,3,False,SM,San Marino
+2019-12-21,2019-12-29,9,True,SM,San Marino
+2019-12-28,2019-12-31,4,True,SM,San Marino
+2018-12-29,2019-01-01,4,True,SR,Suriname
+2019-02-02,2019-02-05,4,True,SR,Suriname
+2019-02-23,2019-02-25,3,False,SR,Suriname
+2019-04-19,2019-04-21,3,False,SR,Suriname
+2019-05-30,2019-06-02,4,True,SR,Suriname
+2019-06-29,2019-07-01,3,False,SR,Suriname
+2019-08-08,2019-08-11,4,False,SR,Suriname
+2019-10-10,2019-10-13,4,True,SR,Suriname
+2019-11-23,2019-11-25,3,False,SR,Suriname
+2019-12-25,2019-12-29,5,True,SR,Suriname
+2019-05-01,2019-05-05,5,True,SV,El Salvador
+2019-05-01,2019-05-07,7,True,SV,El Salvador
+2019-05-10,2019-05-12,3,False,SV,El Salvador
+2019-08-01,2019-08-07,7,False,SV,El Salvador
+2019-09-28,2019-10-01,4,True,SV,El Salvador
+2019-11-07,2019-11-13,7,False,SV,El Salvador
+2019-11-21,2019-11-24,4,True,SV,El Salvador
+2019-12-28,2019-12-31,4,True,SV,El Salvador
+2018-12-29,2019-01-01,4,True,TN,Tunisia
+2019-01-12,2019-01-14,3,False,TN,Tunisia
+2019-04-06,2019-04-09,4,True,TN,Tunisia
+2019-07-25,2019-07-28,4,True,TN,Tunisia
+2019-08-10,2019-08-13,4,True,TN,Tunisia
+2019-10-12,2019-10-15,4,True,TN,Tunisia
+2018-12-29,2019-01-01,4,True,TR,Turkey
+2019-04-20,2019-04-23,4,True,TR,Turkey
+2019-07-13,2019-07-15,3,False,TR,Turkey
+2019-08-30,2019-09-01,3,False,TR,Turkey
+2019-10-26,2019-10-29,4,True,TR,Turkey
+2018-12-29,2019-01-01,4,True,UA,Ukraine
+2019-01-05,2019-01-07,3,False,UA,Ukraine
+2019-03-08,2019-03-10,3,False,UA,Ukraine
+2019-05-09,2019-05-12,4,True,UA,Ukraine
+2019-06-28,2019-06-30,3,False,UA,Ukraine
+2019-10-12,2019-10-14,3,False,UA,Ukraine
+2018-12-29,2019-01-01,4,True,US,United States
+2019-01-19,2019-01-21,3,False,US,United States
+2019-02-16,2019-02-18,3,False,US,United States
+2019-05-25,2019-05-27,3,False,US,United States
+2019-07-04,2019-07-07,4,True,US,United States
+2019-08-31,2019-09-02,3,False,US,United States
+2019-10-12,2019-10-14,3,False,US,United States
+2019-11-09,2019-11-11,3,False,US,United States
+2019-11-28,2019-12-01,4,True,US,United States
+2018-12-29,2019-01-01,4,True,UY,Uruguay
+2019-03-02,2019-03-05,4,False,UY,Uruguay
+2019-04-18,2019-04-21,4,False,UY,Uruguay
+2019-07-18,2019-07-21,4,True,UY,Uruguay
+2018-12-29,2019-01-01,4,True,VA,Vatican City
+2019-02-09,2019-02-11,3,False,VA,Vatican City
+2019-03-16,2019-03-19,4,True,VA,Vatican City
+2019-04-20,2019-04-23,4,False,VA,Vatican City
+2019-08-15,2019-08-18,4,True,VA,Vatican City
+2019-11-01,2019-11-03,3,False,VA,Vatican City
+2019-12-25,2019-12-29,5,True,VA,Vatican City
+2018-12-29,2019-01-01,4,True,VE,Venezuela
+2019-01-12,2019-01-15,4,False,VE,Venezuela
+2019-02-09,2019-02-12,4,True,VE,Venezuela
+2019-03-02,2019-03-05,4,False,VE,Venezuela
+2019-03-08,2019-03-10,3,False,VE,Venezuela
+2019-03-16,2019-03-21,6,True,VE,Venezuela
+2019-03-19,2019-03-24,6,True,VE,Venezuela
+2019-04-19,2019-04-21,3,False,VE,Venezuela
+2019-05-01,2019-05-05,5,True,VE,Venezuela
+2019-06-22,2019-06-24,3,False,VE,Venezuela
+2019-06-27,2019-06-30,4,True,VE,Venezuela
+2019-07-05,2019-07-07,3,False,VE,Venezuela
+2019-07-24,2019-07-28,5,True,VE,Venezuela
+2019-09-21,2019-09-24,4,True,VE,Venezuela
+2019-11-01,2019-11-03,3,False,VE,Venezuela
+2019-11-16,2019-11-21,6,True,VE,Venezuela
+2019-11-16,2019-11-24,9,True,VE,Venezuela
+2019-12-14,2019-12-17,4,True,VE,Venezuela
+2019-12-21,2019-12-25,5,True,VE,Venezuela
+2019-12-28,2019-12-31,4,True,VE,Venezuela
+2018-12-29,2019-01-01,4,True,VN,Vietnam
+2019-04-27,2019-05-01,5,True,VN,Vietnam
+2019-08-31,2019-09-02,3,False,VN,Vietnam
+2018-12-29,2019-01-01,4,True,ZA,South Africa
+2019-03-21,2019-03-24,4,True,ZA,South Africa
+2019-04-19,2019-04-22,4,False,ZA,South Africa
+2019-08-09,2019-08-11,3,False,ZA,South Africa
+2019-09-21,2019-09-24,4,True,ZA,South Africa
+2019-12-14,2019-12-16,3,False,ZA,South Africa
+2019-12-25,2019-12-29,5,True,ZA,South Africa
+2018-12-29,2019-01-01,4,True,ZW,Zimbabwe
+2019-02-21,2019-02-24,4,True,ZW,Zimbabwe
+2019-04-18,2019-04-22,5,False,ZW,Zimbabwe
+2019-08-10,2019-08-13,4,False,ZW,Zimbabwe
+2019-12-25,2019-12-29,5,True,ZW,Zimbabwe
